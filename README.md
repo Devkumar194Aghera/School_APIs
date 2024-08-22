@@ -7,6 +7,22 @@
 ```
 https://school-apis-ffu6.onrender.com
 ```
+## Project Setup Guide
+#### 1)  Clone the project and run "npm install" to install all dependences;
+#### 2) To create and migrate the database run the following commands:
+```
+cd src
+npx sequelize-cli db:create
+npx sequelize-cli db:migrate
+cd ..
+```
+#### 3) Finally you can start project by command : 
+```
+npm start
+```
+
+
+# API Details
 
 ## Add a School Data
 
