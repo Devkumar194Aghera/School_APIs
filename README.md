@@ -1,5 +1,13 @@
 # SCHOOL API ENDPOINTS
 
+## Note 
+#### Because of non avalability of database on hosted platform client can't be able to make any request to the server.
+
+### Live link : 
+```
+https://school-apis-ffu6.onrender.com
+```
+
 ## Add a School Data
 
 ### Endpoint: /addSchool
